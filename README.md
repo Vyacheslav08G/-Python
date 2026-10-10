@@ -14,4 +14,4 @@
 
 |6| (Задание 6 по Python) |✅|
 
-Проект calculator
+Проект calculator в процессе
