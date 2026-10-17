@@ -1,6 +1,5 @@
 # Python Course
 
-
 <div align="center">
 
 
