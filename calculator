@@ -1,1 +1,7 @@
-
+import numpy as np
+def main():
+    a = np.array([1,2,3])
+    b = np.array([67,52,18])
+    result = a + b
+    print("Результат сложения:",result)
+main()
