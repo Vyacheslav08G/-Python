@@ -1,4 +1,4 @@
-# 👋 Привет! Я Vyacheslav08G
+# 👋 Привет!
 
 <div align="center">
 
